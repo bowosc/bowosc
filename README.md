@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋
+<ul>
+  <li>
+    🌱 Personal website: <a href="https://bowmanedebohls.com">bowmanedebohls.com</a>
+  </li>
+  <li>
+    🔭 Currently working on: <a href="https://fridaymap.com>fridaymap.com</a>
+  </li>
+  <li>
+    📡 Previously working on: <a href="https://sphere-project.net>SPHERE Research Infrastructure</a>
+  </li>
+</ul>
 
-<!--
-**bowosc/bowosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
