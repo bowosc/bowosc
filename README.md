@@ -11,4 +11,4 @@
   </li>
 </ul>
 
-*Not all of my repos are public yet, going through and updating them at the moment. :) Stay tuned!*
+*Building cool stuff.*
