@@ -11,4 +11,4 @@
   </li>
 </ul>
 
-*Some of my projects aren't on here yet, as my previous employer used GitLab. :) Stay tuned!*
+*Some of my work is on Gitlab, some I'm not ready to open-source yet. :) Stay tuned!*
