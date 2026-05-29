@@ -7,4 +7,3 @@ I'm currently working on **RF Software at NASA!** <a href="https://www.nasa.gov/
 >*Previously working on <a href="https://cytoct.com">CytoCT Biotech</a>, <a href="https://sphere-project.net">SPHERE Research Infrastructure</a>, <a href="https://fridaymap.com">Fridaymap.com</a>*.
 
 
-*Building cool stuff.*
