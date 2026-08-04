@@ -1,6 +1,6 @@
 ## I'm Bowman Edebohls!
 
-I'm currently building **software at NASA**. <a href="https://www.nasa.gov/wp-content/uploads/2026/02/ieee-aerospace-2023-nasa-5g-ver-7.pdf?emrc=6a0b7ad27470f">
+I'm currently building **computer vision models at NASA**. <a href="https://www.nasa.gov/wp-content/uploads/2026/02/ieee-aerospace-2023-nasa-5g-ver-7.pdf?emrc=6a0b7ad27470f">
 
 >*I've previously built things at <a href="https://cytoct.com">CytoCT Biotech</a> and <a href="https://sphere-project.net">SPHERE Research Infrastructure</a>.*
 
