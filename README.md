@@ -4,6 +4,6 @@ I'm currently building **computer vision systems at NASA**. <a href="https://www
 
 >*I've previously built things at <a href="https://cytoct.com">CytoCT Biotech</a> and <a href="https://sphere-project.net">SPHERE Research Infrastructure</a>.*
 
-See more of the neat things I've built <a href="https://bowmanedebohls.com/projects">here.</a>
+See more things I've built <a href="https://bowmanedebohls.com/projects">here.</a>
 
 
